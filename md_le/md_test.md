@@ -14,7 +14,7 @@ oo
 據說可以用目錄，來測試一下  
 [TOC]
 
-![笑臉](http://pic2.nipic.com/20090417/2060437_165131009_2.jpg)
+![笑臉](https://ss0.baidu.com/73F1bjeh1BF3odCf/it/u=1305638568,3335765979&fm=85&s=5EA83C62110352E60EF47CC70100E0B1)
 
 ```python
 ssss
