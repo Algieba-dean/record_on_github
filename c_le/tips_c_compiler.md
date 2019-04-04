@@ -12,3 +12,4 @@ GCC
 GCC:GNU_C_Compiler (這裡的GNU是一個類unix的操作系統，記得他的宗旨好像是開源或者開放類似的東西)，對於很多類unix系統來說，這就是他們的標準編譯器。
 藉助其他的平台，比如Cywin或者MingW也可以實現Windows移植。
 ```
+  
